@@ -1,3 +1,4 @@
+# Instructions
 To use the program, we need to run these commands in the terminal:
 
 1.sudo su
