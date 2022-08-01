@@ -1,0 +1,5 @@
++OR+
++or+
+--
+DROP+TABLE
+DELETE+FROM
