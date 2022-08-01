@@ -1,6 +1,6 @@
 To use the program, we need to run these commands in the terminal:
 
-1. sudo su
+1.sudo su
 
 2.iptables-A INPUT-j NFQUEUE --queue-num 1
 
