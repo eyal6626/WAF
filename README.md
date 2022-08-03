@@ -16,6 +16,31 @@ The project has three parts. The actual WAF porgram, a user interface and a serv
 
 3. The server saves all of the logs, authenticates users when they want to login and create accounts. The server is a multithreaded server.
 
+# How to run
+### server:
+To run the server open the terminal in the folder server or, go to the folder using the command:
+  `cd "WAF executable files"/server/`
+  
+And then run the server using the command:
+  `sudo ./main`
+
+### WAF:
+To run the WAF open the terminal in the folder WAF or, go to the folder using the command:
+  `cd "WAF executable files"/client/WAF/`
+  
+And then run the WAF using the command:
+  `sudo ./Main`
+  
+
+### Client GUI:
+To run the client open the terminal in the folder client or, go to the folder using the command:
+  `cd "WAF executable files"/client/`
+  
+And then run the client using the command:
+  `sudo ./client`
+  
+### Is not possible to run the client GUI if the server is not active!
+
 # What I Learned
 
 * How to use the libnetfilter_queue library
