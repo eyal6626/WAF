@@ -22,7 +22,7 @@ The project has three parts. The actual WAF porgram, a user interface and a serv
 * How to manipulate network traffic(drop packets,accept packets, etc.)
 * How to extract data from packets and filter them
 * How to defend against DOS, DDOS, and SQL injection attacks
-* How to program a GUI using QT
+* How to design a GUI using QT
 * I learned more about networking,Linux OS and the world of cybersecurity.
 
 
